@@ -2,8 +2,8 @@
 # returns the phrase
 
 def parrot(argument = "Squawk!")
-  print "#{argument}."
+  print "#{argument}"
 end
 
-parrot("Hello")
+parrot("Pretty bird!")
   
