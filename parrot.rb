@@ -5,4 +5,4 @@ def parrot(argument = "Squawk!")
   puts "#{argument}"
 end
 
-puts parrot
+puts parrot("Pretty bird!")
