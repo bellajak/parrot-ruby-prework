@@ -5,5 +5,5 @@ def parrot(argument = "Squawk!")
   print "#{argument}"
 end
 
-parrot("Pretty bird!")
+parrot
   
